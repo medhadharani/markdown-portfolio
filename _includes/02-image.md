@@ -2,5 +2,4 @@
 Replace this with an image, like your photo. Ensure you include some alt-text.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 This is an image
-[GitHub](http://github.com)
-[text](http://example.com)
+[sabara](http://lms.appsc.sab.ac.lk/)
