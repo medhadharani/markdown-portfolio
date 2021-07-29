@@ -1,4 +1,4 @@
 Replace this with a list of your favorite things.
-👍coding
-😄sleeping
-💙eating
+- item1
+- item2
+- item3
